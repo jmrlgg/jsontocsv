@@ -1,10 +1,11 @@
-'''
-My json to csv conversion script attempt
-v.10
-8/9/16
- 
-Create a Reddit App and Fill in your information. This is a script for the public. No need for keys or auth tokens
-'''
+#!/usr/bin/env python
+# '''
+# My json to csv conversion script attempt
+# v.10
+# 8/9/16
+# 
+# Create a Reddit App and Fill in your information. This is a script for the public. No need for keys or auth tokens
+# '''
  
 import praw
 from datetime import date
